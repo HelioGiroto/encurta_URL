@@ -10,6 +10,10 @@ No Terminal: Baixe o script e execute-o:
 
   <strong>bash encurta.sh</strong>
   
+  Após rodá-lo pela primeira vez, já dispensa o bash encurta.sh... Já se pode usar nesta sintaxe abaixo:
+  
+  <strong>encurta www.exemplo.com.br</strong>
+  
   Mais nada!!! 
   Disfrute...
   
