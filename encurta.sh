@@ -30,4 +30,4 @@ echo
 # Sobre o xclip :
 # https://stackoverflow.com/questions/5130968/how-can-i-copy-the-output-of-a-command-directly-into-my-clipboard#5130969
 
-# AUTOR: Helio Giroto <3
+# AUTOR: Helio Giroto <3	- Made in a Raspberry Pi !!!
